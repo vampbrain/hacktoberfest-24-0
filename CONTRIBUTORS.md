@@ -2428,3 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Bharathi R](https://github.com/vampbrain)
+- Place: TN, India
+- Bio: An aspiring SDE
+- Github: [Bharathi R](https://github.com/vampbrain)
